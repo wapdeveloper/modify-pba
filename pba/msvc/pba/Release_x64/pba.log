@@ -1,0 +1,16 @@
+﻿生成启动时间为 2016/8/13 18:01:28。
+     1>项目“F:\pba_v1.0.5\pba\msvc\pba\pba.vcxproj”在节点 2 上(clean 个目标)。
+     1>_PrepareForClean:
+         正在删除文件“Release_x64\pba.lastbuildstate”。
+       CudaClean:
+         cmd.exe /C "C:\Users\harry\AppData\Local\Temp\tmp3df616596fef44479e1ed26495044d80.cmd"
+         "C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v7.5\bin\nvcc.exe" -ccbin "D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64"  -I\ -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v7.5\include" -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v7.5\include"     --keep-dir x64\Release -maxrregcount=0  --machine 64 --compile      -DWIN32 -DNDEBUG -D_WINDOWS -D_USRDLL -DPBA_DLL -DDLL_EXPORT -Xcompiler "/EHsc /W1 /nologo /O2 /Zi  /MD " -o Release_x64\ProgramCU.cu.obj "F:\pba_v1.0.5\pba\src\pba\ProgramCU.cu" -clean
+         
+         F:\pba_v1.0.5\pba\msvc\pba>"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v7.5\bin\nvcc.exe" -ccbin "D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64"  -I\ -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v7.5\include" -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v7.5\include"     --keep-dir x64\Release -maxrregcount=0  --machine 64 --compile      -DWIN32 -DNDEBUG -D_WINDOWS -D_USRDLL -DPBA_DLL -DDLL_EXPORT -Xcompiler "/EHsc /W1 /nologo /O2 /Zi  /MD " -o Release_x64\ProgramCU.cu.obj "F:\pba_v1.0.5\pba\src\pba\ProgramCU.cu" -clean 
+         ProgramCU.cu
+         正在删除文件“Release_x64\..\..\src\pba\ProgramCU.cu.deps”。
+     1>已完成生成项目“F:\pba_v1.0.5\pba\msvc\pba\pba.vcxproj”(clean 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.40
